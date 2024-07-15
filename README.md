@@ -5,8 +5,9 @@ This library has no dependencies, it only needs to be linked through the linker 
 
 This library works perfectly with the MinGW compiler and was developed and tested on Bloodshed's DeV C++ and its derivatives (Embarcadero, CodeBlocks, Orwell, etc.)
 
-You must configure the IDE to include the link to the gdi32 library, to do this in Dev C++ you must go to the **Tools** menu in **Compiler Options** and in the box that says **Add these commands to the linker command line** add this flag: ** -lgdi32 **
+You must configure the IDE to include the link to the gdi32 library, to do this in Dev C++ you must go to the **Tools** next to **Compiler Options** and in the box that says **Add these commands to the linker command line** add this flag: ** -lgdi32 **
 
+## go to the <Tools> next to <Compiler Options>
 ![square1](https://github.com/moglione/turtle-in-c/blob/main/images/menu.png)
 
 
