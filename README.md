@@ -13,6 +13,9 @@ You must configure the IDE to include the link to the gdi32 library, to do this 
 ## add this flag in the linker textbox : -lgdi32
 ![square1](https://github.com/moglione/turtle-in-c/blob/main/images/compiler_options.png)
 
+
+## Then all you need is to include the tortuga.h header file and start programming!!!!
+
 ```
 
 #include "tortuga.h"
