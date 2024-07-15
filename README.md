@@ -34,7 +34,7 @@ main(){
     forward(1000);
     rightTurn(90);
             	
-	wait();
+    wait();
 	
 }
 
