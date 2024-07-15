@@ -13,6 +13,30 @@ You must configure the IDE to include the link to the gdi32 library, to do this 
 ## add this flag in the linker textbox : -lgdi32
 ![square1](https://github.com/moglione/turtle-in-c/blob/main/images/compiler_options.png)
 
+```
+
+#include "tortuga.h"
+
+main(){
+   
+    forward(1000);
+    rightTurn(90);
+    
+    forward(1000);
+    rightTurn(90);
+    
+    forward(1000);
+    rightTurn(90);
+    
+    forward(1000);
+    rightTurn(90);
+            	
+	wait();
+	
+}
+
+```
+
 
 ### For example: the following program will draw a square 1000 steps in size per side on the screen
 
