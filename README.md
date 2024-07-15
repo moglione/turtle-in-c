@@ -7,7 +7,10 @@ This library works perfectly with the MinGW compiler and was developed and teste
 
 You must configure the IDE to include the link to the gdi32 library, to do this in Dev C++ you must go to the **Tools** menu in **Compiler Options** and in the box that says **Add these commands to the linker command line** add this flag: ** -lgdi32 **
 
+![square1](https://github.com/moglione/turtle-in-c/blob/main/images/menu.png)
 
+
+![square1](https://github.com/moglione/turtle-in-c/blob/main/images/compiler_options.png)
 
 
 ### For example: the following program will draw a square 1000 steps in size per side on the screen
