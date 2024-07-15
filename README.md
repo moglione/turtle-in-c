@@ -7,7 +7,7 @@ This library works perfectly with the MinGW compiler and was developed and teste
 
 You must configure the IDE to include the link to the gdi32 library, to do this in Dev C++ you must go to the **Tools** next to **Compiler Options** and in the box that says **Add these commands to the linker command line** add this flag: ** -lgdi32 **
 
-## go to the <Tools> next to <Compiler Options>
+## go to the "Tools" next to "Compiler Options"
 ![square1](https://github.com/moglione/turtle-in-c/blob/main/images/menu.png)
 
 
